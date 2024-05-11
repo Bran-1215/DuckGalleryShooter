@@ -1,6 +1,5 @@
-**Top Down World**
+**Duck Fight Gallery Shooter**
 
-Template code for loading and rendering a multi-layer tileset created using Tiled 
-using Phaser 3.
+A gallery shooter where ducks fight.
 
-Uses the [Tiny Town](https://kenney.nl/assets/tiny-town) asset pack from Kenny Assets, with gratitude.
+Uses the [UI Pack](https://kenney.nl/assets/ui-pack), [Space Shooter Redux](https://kenney.nl/assets/space-shooter-redux), [Shooting Gallery](https://kenney.nl/assets/shooting-gallery), and [Interface Sounds](https://kenney.nl/assets/interface-sounds) asset packs from Kenny Assets, all with gratitude.
